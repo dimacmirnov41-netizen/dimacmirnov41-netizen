@@ -25,5 +25,13 @@
 </p>
 
 <p align="center">
+  <b>Мои минусы:</b>
+</p>
+
+<p align="center">
+  Не люблю делать дизайн под телефоны
+</p>
+
+<p align="center">
   <img src="github-contribution-grid-snake-dark.svg" alt="Змейка, поедающая вклады" />
 </p>
