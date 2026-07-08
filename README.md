@@ -36,5 +36,5 @@
 </p>
 
 <p align="center">
-  <a href="https://dimacmirnov41-netizen.github.io/zmeika/">🎮 Поиграть в змейку сделаная за 10 мин</a>
+  <a href="https://dimacmirnov41-netizen.github.io/zmeika/">🎮 Поиграть в змейку сделанная за 10 мин</a>
 </p>
