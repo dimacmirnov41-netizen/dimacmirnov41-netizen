@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord%20OAuth2-5865F2?style=flat-square&logo=discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20reCAPTCHA-4285F4?style=flat-square&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat-square&logo=minecraft&logoColor=white"/>
 </p>
