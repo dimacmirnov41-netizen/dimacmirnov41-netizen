@@ -1,1 +1,1 @@
-Умею писать на :  python logo  javascript logo
+Умею писать на :   python logo  javascript logo 
