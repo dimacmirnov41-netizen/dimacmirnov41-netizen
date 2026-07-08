@@ -35,3 +35,7 @@
 <p align="center">
   <img src="github-contribution-grid-snake-dark.svg" alt="Змейка, поедающая вклады" />
 </p>
+
+<p align="center">
+  <a href="https://dimacmirnov41-netizen.github.io/zmeika/">🎮 Поиграть в змейку сделаная за 10 мин</a>
+</p>
