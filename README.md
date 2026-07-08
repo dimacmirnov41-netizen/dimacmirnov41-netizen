@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Discord%20OAuth2-5865F2?style=flat-square&logo=discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20reCAPTCHA-4285F4?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9IiM2MkI0N0EiLz48cGF0aCBkPSJNMzIgMTZMOCAyOHYxNmwyNC0xMiAyNCAxMlYyOEwzMiAxNnoiIGZpbGw9IiNGRkZGRkYiLz48L3N2Zz4="/>
 </p>
 
 <p align="center">
