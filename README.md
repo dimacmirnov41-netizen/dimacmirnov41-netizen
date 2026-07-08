@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Мой стек:</b>
+  <b>На чём умею писать:</b>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <b>Интеграции:</b>
+  <b>Что использую:</b>
 </p>
 
 <p align="center">
