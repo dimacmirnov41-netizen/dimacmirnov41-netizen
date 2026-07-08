@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/java/007396" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
 <p align="center">
