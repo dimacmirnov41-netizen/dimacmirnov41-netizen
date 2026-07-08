@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  Не люблю делать дизайн под телефоны
+  <img src="https://img.shields.io/badge/Не%20люблю-адаптив%20под%20телефоны-FF4757?style=flat-square"/>
 </p>
 
 <p align="center">
