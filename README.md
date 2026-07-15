@@ -1,4 +1,4 @@
-<p align="center">
+9<p align="center">
   <b>На чём умею писать:</b>
 </p>
 
@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 </p>
+
+<img src="https://img.shields.io/badge/MySQL-003B57-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
 
 <p align="center">
   <b>Что использую:</b>
