@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 </p>
 
-<img src="https://img.shields.io/badge/MySQL-003B57?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 <p align="center">
   <b>Что использую:</b>
