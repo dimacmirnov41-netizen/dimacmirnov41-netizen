@@ -14,6 +14,9 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
+<p align="center">
+* Я знаю эти языки уже 2 года.<br>
+</p>
 
 <p align="center">
   <b>Что использую:</b>
